@@ -5,8 +5,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FreeSO")]
-[assembly: AssemblyProduct("FreeSO")]
+[assembly: AssemblyTitle("My Simulation")]
+[assembly: AssemblyProduct("My Simulation")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyDescription("Re-implementation of The Sims Online in C#.")]
 [assembly: AssemblyCompany("")]
